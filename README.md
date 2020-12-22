@@ -1,6 +1,6 @@
 # README
 
-Follwoing tutorial: http://tutorials.jumpstartlab.com/projects/blogger.html
+Following tutorial: http://tutorials.jumpstartlab.com/projects/blogger.html
 
 
 ---------------------
